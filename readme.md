@@ -37,6 +37,8 @@ A new password is generated every 30 minutes.
   
 ## 6. Provide the desired start and end evaluation times.  
 
+## This is old version of hongbooking manual video.  
+
 [Watch the Video Guide](https://youtu.be/MWj3DeJTAtM)  
 
 [![Video Guide](https://img.youtube.com/vi/MWj3DeJTAtM/0.jpg)](https://www.youtube.com/watch?v=MWj3DeJTAtM)  
