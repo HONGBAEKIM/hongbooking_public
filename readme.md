@@ -21,7 +21,7 @@ if (user == 42piscine) <br>
 if (user == 42student)  
 &#9;**./hongbooking19_student -password-**  
 if (user == 42piscine)  
-&#9;**./hongbooking19_piscine -password-**  
+&#9;*./hongbooking19_piscine -password-*  
   
 -password- is in https://www.hongpage.com/hongbooking <br>
 
