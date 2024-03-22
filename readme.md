@@ -18,11 +18,11 @@ if (user == 42piscine) <br>
  
 2.Run booking evaluation slots program  <br>
 
-if (user == 42student)
-&#9;**./hongbooking19_student -password-**
-if (user == 42piscine)
-&#9;**./hongbooking19_piscine -password-**
-
+if (user == 42student)  
+&#9;**./hongbooking19_student -password-**  
+if (user == 42piscine)  
+&#9;**./hongbooking19_piscine -password-**  
+  
 -password- is in https://www.hongpage.com/hongbooking <br>
 
 3.Start by logging in with your credentials (ID and password). <br>
