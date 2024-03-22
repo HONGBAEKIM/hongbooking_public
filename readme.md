@@ -23,14 +23,15 @@ if (user == 42student)
 if (user == 42piscine)  
 &#9;**./hongbooking19_piscine password**  
   
-**password** is in https://www.hongpage.com/hongbooking <br>
+**password** is in https://www.hongpage.com/hongbooking <br>  
+password is generated every 30min
 
-## 3.Start by logging in with your credentials (ID and password). <br>
 
-## 4.Specify the project name that you want to have evaluated. <br>
+## 3.log-in (ID and password). <br>
 
-## 5.Provide the desired start and end times for the evaluation. <br>
+## 4.Select project name <br>
 
+## 5.Provide the desired start and end evaluation times. <br>  
 
 
 https://youtu.be/MWj3DeJTAtM  
