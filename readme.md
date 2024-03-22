@@ -11,7 +11,7 @@ https://github.com/HONGBAEKIM/hongbooking_public/tree/main <br>
 
 ## 1.extract file <br>
 
-if (user == 42student) <br>
+if (user == 42student) <br>  
 &#9;extract 42student.zip <br>
 if (user == 42piscine) <br>
 &#9;extract 42piscine.zip <br>
