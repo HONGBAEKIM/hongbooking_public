@@ -4,34 +4,33 @@ the process of booking evaluation slots,
 eliminating the need to manually refresh the evaluation page.
 
 Allow me to guide you on its usage:
+<br>
+0.download hongbooking <br>
+https://github.com/HONGBAEKIM/hongbooking_public/tree/main
 
-0.download hongbooking
+<br><br>
+1.extract file <br><br>
 
-zip or git clone from https://github.com/HONGBAEKIM/hongbooking_public/tree/main
+if (user == 42student) <br>
+    extract 42student.zip <br>
+if (user == 42piscine) <br>
+    extract 42piscine.zip <br>
+ 
+2.Run booking evaluation slots program  <br><br>
 
+if (user == 42student) <br>
+    ./hongbooking19_student <password> <br>
+if (user == 42piscine) <br>
+    ./hongbooking19_piscine <password> <br><br>
 
-1.extract file 
-
-if (user == 42student) 
-    extract 42student.zip
-if (user == 42piscine) 
-    extract 42piscine.zip
-
-# 2. Run booking evaluation slots program  
-
-if (user == 42student)
-    ./hongbooking19_student <password>
-if (user == 42piscine)
-    ./hongbooking19_piscine <password>
-
-#<password> is in https://www.hongpage.com/hongbooking
+#<password> is in https://www.hongpage.com/hongbooking <br><br>
 
 
-3.Start by logging in with your credentials (ID and password).
+3.Start by logging in with your credentials (ID and password). <br><br>
 
-4.Specify the project name that you want to have evaluated.
+4.Specify the project name that you want to have evaluated. <br><br>
 
-5.Provide the desired start and end times for the evaluation.
+5.Provide the desired start and end times for the evaluation. <br><br>
 
 
 
