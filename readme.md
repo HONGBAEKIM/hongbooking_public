@@ -16,7 +16,7 @@ if (user == 42student) <br>
 if (user == 42piscine) <br>
 &#9;extract 42piscine.zip <br>
  
-2.Run booking evaluation slots program  <br>
+## 2.Run booking evaluation slots program  <br>
 
 if (user == 42student)  
 &#9;**./hongbooking19_student password**  
