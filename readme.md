@@ -8,8 +8,10 @@ Allow me to guide you on its usage:
 
 ## 1. Download Hongbooking  
   
-[Download from GitHub](https://github.com/HONGBAEKIM/hongbooking_public/tree/main)  
-  
+[Download for 42 student](https://github.com/HONGBAEKIM/hongbooking_public/raw/main/42student.zip)  
+
+[Download for 42 pisciner](https://github.com/HONGBAEKIM/hongbooking_public/raw/main/42piscine.zip)  
+
 ## 2. Extract Files  
   
 If the user is a 42 student:  
