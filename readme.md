@@ -15,23 +15,23 @@ Allow me to guide you on its usage:
 If the user is a 42 student:  
 &#9;Extract 42student.zip  
   
-If the user is a 42 piscine participant:  
+If the user is a 42 pisciner:  
 &#9;Extract 42piscine.zip  
   
 ## 3. Run the Booking Evaluation Slots Program  
   
 To run the program, navigate to the following repository: `/dist/hongbooking19_student/`  
 If the user is a 42 student:  
-&#9;**./hongbooking19_student password**  
+&#9;**`./hongbooking19_student [password]`**  
   
 To run the program, navigate to the following repository: `/dist/hongbooking19_piscine/`  
-If the user is a 42 piscine participant:  
-&#9;**./hongbooking19_piscine password**  
+If the user is a 42 pisciner:  
+&#9;**`./hongbooking19_piscine [password]`**  
   
-**Password** can be found at [https://www.hongpage.com/hongbooking](https://www.hongpage.com/hongbooking).  
+**[Password]** can be found at [https://www.hongpage.com/hongbooking](https://www.hongpage.com/hongbooking).  
 A new password is generated every 30 minutes.  
   
-## 4. Log in with your credentials (ID and password).  
+## 4. Log in with ID and password.  
   
 ## 5. Select the project name.  
   
