@@ -20,9 +20,11 @@ If the user is a 42 piscine participant:
   
 ## 3. Run the Booking Evaluation Slots Program  
   
+To run the program, navigate to the following repository: `/dist/hongbooking19_student/`  
 If the user is a 42 student:  
 &#9;**./hongbooking19_student password**  
   
+To run the program, navigate to the following repository: `/dist/hongbooking19_piscine/`  
 If the user is a 42 piscine participant:  
 &#9;**./hongbooking19_piscine password**  
   
