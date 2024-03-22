@@ -9,7 +9,7 @@ Allow me to guide you on its usage:
 0.download hongbooking <br>
 https://github.com/HONGBAEKIM/hongbooking_public/tree/main <br>
 
-1.extract file <br>
+## 1.extract file <br>
 
 if (user == 42student) <br>
 &#9;extract 42student.zip <br>
@@ -25,11 +25,11 @@ if (user == 42piscine)
   
 **password** is in https://www.hongpage.com/hongbooking <br>
 
-3.Start by logging in with your credentials (ID and password). <br>
+## 3.Start by logging in with your credentials (ID and password). <br>
 
-4.Specify the project name that you want to have evaluated. <br>
+## 4.Specify the project name that you want to have evaluated. <br>
 
-5.Provide the desired start and end times for the evaluation. <br>
+## 5.Provide the desired start and end times for the evaluation. <br>
 
 
 
