@@ -31,7 +31,7 @@ If the user is a 42 pisciner:
 &#9;**`./hongbooking19_piscine [password]`**  
   
 **[Password]** can be found at [https://www.hongpage.com/hongbooking](https://www.hongpage.com/hongbooking).  
-A new password is generated every 30 minutes.  
+A new password is generated every 20 minutes.  
   
 ## 4. Log in with ID and password.  
   
