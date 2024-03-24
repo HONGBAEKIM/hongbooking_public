@@ -3,7 +3,13 @@
 I have developed a program that automates  
 the process of booking evaluation slots,  
 eliminating the need to manually refresh the evaluation page.  
-  
+
+## This is hongbooking manual video.  
+
+[Watch the Video Guide]([https://youtu.be/MWj3DeJTAtM](https://youtu.be/pKL927ITmAc?si=R1VRVU1fToCpOI6k))  
+
+
+
 Allow me to guide you on its usage:  
 
 ## 1. Download Hongbooking  
