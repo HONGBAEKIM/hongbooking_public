@@ -25,6 +25,11 @@ If the user is a 42 student:
   
 If the user is a 42 pisciner:  
 &#9;Extract 42piscine.zip  
+
+(updating)
+For MacOS with M1 chip
+[Download Docker](https://docs.docker.com/get-docker/)
+
   
 ## 3. Run the Booking Evaluation Slots Program  
   
