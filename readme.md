@@ -18,6 +18,8 @@ Allow me to guide you on its usage:
 
 [Download for 42 pisciner](https://github.com/HONGBAEKIM/hongbooking_public/raw/main/42piscine.zip)  
 
+(Updating soon for mac)
+
 ## 2. Extract Files  
   
 If the user is a 42 student:  
@@ -26,9 +28,7 @@ If the user is a 42 student:
 If the user is a 42 pisciner:  
 &#9;Extract 42piscine.zip  
 
-(updating)
-For MacOS with M1 chip
-[Download Docker](https://docs.docker.com/get-docker/)
+(Updating soon for mac)
 
   
 ## 3. Run the Booking Evaluation Slots Program  
