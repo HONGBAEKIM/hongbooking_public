@@ -7,9 +7,12 @@ eliminating the need to manually refresh the evaluation page.
 ## This is hongbooking manual video.  
 
 [![Video](https://img.youtube.com/vi/pKL927ITmAc/maxresdefault.jpg)](https://youtu.be/pKL927ITmAc?si=R1VRVU1fToCpOI6k)
- 
+   
+  
+## Manually book VS Hongbooking  
 
-
+[![Video Guide](https://img.youtube.com/vi/MWj3DeJTAtM/0.jpg)](https://www.youtube.com/watch?v=MWj3DeJTAtM)  
+  
 Allow me to guide you on its usage:  
 
 ## 1. Download Hongbooking  
@@ -75,6 +78,3 @@ A new password is generated every 20 minutes.
   
 ## 6. Provide the desired start and end evaluation times.  
 
-## Manually book VS Hongbooking  
-
-[![Video Guide](https://img.youtube.com/vi/MWj3DeJTAtM/0.jpg)](https://www.youtube.com/watch?v=MWj3DeJTAtM)  
