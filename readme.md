@@ -46,7 +46,7 @@ If the user is a 42 pisciner:
   
 ## 3. Run the Booking Evaluation Slots Program  
   
-(Mac) : user can see the chrome browser while the program is running
+(Mac) : user can see the chrome browser while the program is running  
 To run the program, navigate to the following repository: `/dist/hongbooking19_student_mac/`  
 If the user is a 42 student:  
 &#9;**`./hongbooking19_student_mac [password]`**  
@@ -55,8 +55,8 @@ To run the program, navigate to the following repository: `/dist/hongbooking19_p
 If the user is a 42 pisciner:  
 &#9;**`./hongbooking19_piscine_mac [password]`**  
   
-  
-(Linux): user can not see the chrome browser while the program is running
+
+(Linux): user can not see the chrome browser while the program is running  
 To run the program, navigate to the following repository: `/dist/hongbooking19_student/`  
 If the user is a 42 student:  
 &#9;**`./hongbooking19_student [password]`**  
