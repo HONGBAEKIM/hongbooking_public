@@ -7,7 +7,15 @@ eliminating the need to manually refresh the evaluation page.
 ## This is hongbooking manual video.  
 
 [![Video](https://img.youtube.com/vi/pKL927ITmAc/maxresdefault.jpg)](https://youtu.be/pKL927ITmAc?si=R1VRVU1fToCpOI6k)
-   
+  
+    
+<iframe width="560" height="315" src="https://youtu.be/pKL927ITmAc?si=R1VRVU1fToCpOI6k" frameborder="0" allowfullscreen></iframe>
+ 
+<iframe width="560" height="315"
+src="https://youtu.be/pKL927ITmAc?si=R1VRVU1fToCpOI6k" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
   
 ## Manually book VS Hongbooking  
 
