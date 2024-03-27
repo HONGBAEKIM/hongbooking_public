@@ -13,26 +13,48 @@ eliminating the need to manually refresh the evaluation page.
 Allow me to guide you on its usage:  
 
 ## 1. Download Hongbooking  
+
+(Mac)
+[Download for 42 student](https://github.com/HONGBAEKIM/hongbooking_public/raw/main/42student_mac.zip)  
+
+[Download for 42 pisciner](https://github.com/HONGBAEKIM/hongbooking_public/raw/main/42piscine_mac.zip)  
   
+
+(Linux)  
 [Download for 42 student](https://github.com/HONGBAEKIM/hongbooking_public/raw/main/42student.zip)  
 
 [Download for 42 pisciner](https://github.com/HONGBAEKIM/hongbooking_public/raw/main/42piscine.zip)  
 
-(Updating soon for mac)
 
 ## 2. Extract Files  
   
+(Mac)  
+If the user is a 42 student:  
+&#9;Extract 42student_mac.zip  
+  
+If the user is a 42 pisciner:  
+&#9;Extract 42piscine_mac.zip  
+  
+(Linux)  
 If the user is a 42 student:  
 &#9;Extract 42student.zip  
   
 If the user is a 42 pisciner:  
 &#9;Extract 42piscine.zip  
-
-(Updating soon for mac)
-
+  
   
 ## 3. Run the Booking Evaluation Slots Program  
   
+(Mac) : user can see the chrome browser while the program is running
+To run the program, navigate to the following repository: `/dist/hongbooking19_student_mac/`  
+If the user is a 42 student:  
+&#9;**`./hongbooking19_student_mac [password]`**  
+  
+To run the program, navigate to the following repository: `/dist/hongbooking19_piscine_mac/`  
+If the user is a 42 pisciner:  
+&#9;**`./hongbooking19_piscine_mac [password]`**  
+  
+(Linux): user can not see the chrome browser while the program is running
 To run the program, navigate to the following repository: `/dist/hongbooking19_student/`  
 If the user is a 42 student:  
 &#9;**`./hongbooking19_student [password]`**  
@@ -41,6 +63,7 @@ To run the program, navigate to the following repository: `/dist/hongbooking19_p
 If the user is a 42 pisciner:  
 &#9;**`./hongbooking19_piscine [password]`**  
   
+
 **[Password]** can be found at [https://www.hongpage.com/hongbooking](https://www.hongpage.com/hongbooking).  
 A new password is generated every 20 minutes.  
   
