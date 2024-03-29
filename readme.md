@@ -4,6 +4,10 @@ I have developed a program that automates
 the process of booking evaluation slots,  
 eliminating the need to manually refresh the evaluation page.  
 
+
+  
+  [![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange.svg)]([YOUR_BUY_ME_A_COFFEE_LINK](https://www.buymeacoffee.com/hongbaki))
+
 ## Linux hongbooking manual video  
 
 [![Video](https://img.youtube.com/vi/pKL927ITmAc/maxresdefault.jpg)](https://youtu.be/pKL927ITmAc?si=ZXxeBwi8phSxbMu9)
@@ -59,9 +63,6 @@ A new password is generated every 20 minutes.
 ## 4. Select the project name.  
   
 ## 5. Provide the desired start and end evaluation times.  
-
-
-
 
 
 ## Manually book VS Hongbooking  
