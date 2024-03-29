@@ -4,9 +4,8 @@ I have developed a program that automates
 the process of booking evaluation slots,  
 eliminating the need to manually refresh the evaluation page.  
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange.svg)](https://www.buymeacoffee.com/hongbaki)
 
-  
-  [![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange.svg)]([YOUR_BUY_ME_A_COFFEE_LINK](https://www.buymeacoffee.com/hongbaki))
 
 ## Linux hongbooking manual video  
 
