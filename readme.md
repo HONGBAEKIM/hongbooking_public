@@ -4,10 +4,13 @@ I have developed a program that automates
 the process of booking evaluation slots,  
 eliminating the need to manually refresh the evaluation page.  
 
-## This is hongbooking manual video.  
+## Linux hongbooking manual video  
 
 [![Video](https://img.youtube.com/vi/pKL927ITmAc/maxresdefault.jpg)](https://youtu.be/pKL927ITmAc?si=R1VRVU1fToCpOI6k)
   
+## Mac hongbooking manual video
+[![Video](https://img.youtube.com/vi/raWomR8BpPw/maxresdefault.jpg)](https://youtu.be/raWomR8BpPw)
+
   
 Allow me to guide you on its usage:  
 
