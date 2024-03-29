@@ -29,9 +29,9 @@ User can see the chrome browser while the program is running
 
 To run the program, navigate to the following repository: 
   
-`chmod 755 hongbooking19_student_mac`
+`chmod 755 Hongbooking_mac`
 
-&#9;**`./hongbooking19_student_mac`**  
+&#9;**`./Hongbooking_mac`**  
     
 
 (Linux)  
