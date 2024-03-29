@@ -6,7 +6,7 @@ eliminating the need to manually refresh the evaluation page.
 
 ## Linux hongbooking manual video  
 
-[![Video](https://img.youtube.com/vi/pKL927ITmAc/maxresdefault.jpg)](https://youtu.be/pKL927ITmAc?si=R1VRVU1fToCpOI6k)
+[![Video](https://img.youtube.com/vi/pKL927ITmAc/maxresdefault.jpg)](https://youtu.be/pKL927ITmAc?feature=shared)
   
 ## Mac hongbooking manual video
 [![Video](https://img.youtube.com/vi/raWomR8BpPw/maxresdefault.jpg)](https://youtu.be/raWomR8BpPw)
