@@ -1,4 +1,7 @@
 # Service Termination Announcement
+I’ve decided to terminate Hongbooking as I shift my focus to new opportunities and challenges.
+Over the past year, I’ve developed and run a program that automates evaluation slot booking for 42 School students, addressing the challenge of high-demand slots and reducing the need for constant page refreshing. It’s been an amazing journey, and I’ve been thrilled to see students in the 42 Berlin and global 42 community benefit from it.
+
 
 
 Automatically Booking Evaluation Slots  
